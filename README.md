@@ -1,4 +1,4 @@
-# my-react-homepage
+# My-react-homepage
 ## The first react homepage project filled with my personal information.
 
 ### The project includes react basics.

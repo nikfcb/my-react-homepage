@@ -1,5 +1,5 @@
 # My-react-homepage
-## The first react homepage project filled with my personal information.
+## The first react homepage project with my personal information.
 
 ### The project includes react basics.
 ### The github basics for deployment of react pages
